@@ -57,7 +57,7 @@ Movie_Recommendation_System/
 - **Pandas**
 - **Scikit-learn**
 - **Pickle**
-- **Flask / Streamlit** (depending on implementation)
+- **Streamlit** 
 - **Render** (for deployment)
 
 ---
