@@ -115,9 +115,3 @@ Open the browser and navigate to the local server URL shown in the terminal.
 * Deploy using Docker
 * Improve UI/UX
 
----
-
-
-
-Just tell me 👍
-```
