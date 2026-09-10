@@ -3,7 +3,7 @@
 
 A **Movie Recommendation System** built with Python that recommends similar movies based on content similarity. The application uses pre-computed similarity scores for fast and accurate recommendations and is deployed as a web app for public access.
 
-🔗 **Live Demo:** https://movierecommendation-crmw.onrender.com
+🔗 **Live Demo:** https://movie-recommendation-system-uvchyhjltnol2me8ggzjua.streamlit.app/
 
 ---
 
@@ -19,7 +19,7 @@ The system is optimized for performance by loading pre-trained similarity matric
 
 Try the project here (no installation required):
 
-➡️ **https://movierecommendation-crmw.onrender.com**
+➡️ **https://movie-recommendation-system-uvchyhjltnol2me8ggzjua.streamlit.app/**
 
 ---
 
@@ -46,7 +46,7 @@ Movie_Recommendation_System/
 ✔ Content-based movie recommendation  
 ✔ Fast inference using pre-computed similarity  
 ✔ Clean and simple web interface  
-✔ Deployed online using Render  
+✔ Deployed online using Streamlit  
 ✔ Beginner-friendly and scalable project structure  
 
 ---
@@ -58,7 +58,7 @@ Movie_Recommendation_System/
 - **Scikit-learn**
 - **Pickle**
 - **Streamlit** 
-- **Render** (for deployment)
+
 
 ---
 
