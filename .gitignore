@@ -1,1 +1,50 @@
-venv
+# =========================
+# Python
+# =========================
+
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+.streamlit/secrets.toml
+
+# =========================
+# IDE / Editor
+# =========================
+
+.idea/
+.vscode/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python tooling
+# =========================
+
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# Logs / temporary files
+# =========================
+
+*.log
+streamlit_log.txt
+
+# =========================
+# Generated / failed data
+# =========================
+
+data/movie_catalog_failed.csv
